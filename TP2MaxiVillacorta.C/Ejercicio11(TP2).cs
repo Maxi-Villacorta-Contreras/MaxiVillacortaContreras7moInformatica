@@ -10,6 +10,7 @@ namespace Ejercicio11
     {
         static void Main(string[] args)
         {
+            //Pide al usuario dos numeros y muestra la "distancia" entre ellos (el valor absoluto de su diferencia, de modo que el resultado sea siempre positivo.//
             int num1, num2, distancia;
             Console.WriteLine("Ingrese el primer numero: ");
             num1 = int.Parse(Console.ReadLine());

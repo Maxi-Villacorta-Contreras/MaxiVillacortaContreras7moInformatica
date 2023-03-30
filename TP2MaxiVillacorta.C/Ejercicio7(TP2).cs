@@ -10,6 +10,7 @@ namespace eJERCICIO7
     {
         static void Main(string[] args)
         {
+            //Mostrar el area y perimetro de un paralelogramo.//
             float area;
             float altura;
             float basee;

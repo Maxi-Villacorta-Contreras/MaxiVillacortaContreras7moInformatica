@@ -10,6 +10,7 @@ namespace Ejercicio3_TP2_
     {
         static void Main(string[] args)
         {
+            //Hacer un programa que calcule el salario de un empleado, si se descuenta el 20% de su salario bruto.//
             int salario;
             int porciento;
             Console.WriteLine("Ingrese el salario:");

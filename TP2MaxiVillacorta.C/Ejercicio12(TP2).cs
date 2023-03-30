@@ -10,6 +10,7 @@ namespace Ejercicio12
     {
         static void Main(string[] args)
         {
+            //Realizar un programa que lea un numro y que muestre su raiz cuadrada y su raiz cubica. C# tiene funcion que permita calcular la raiz cuadrada cubica. ¿Como se puede calcular?
             float cubica = 0;
             float cuadrada = 0;
             int numero = 0;

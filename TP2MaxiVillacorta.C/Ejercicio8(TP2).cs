@@ -10,6 +10,7 @@ namespace Ejercicio8
     {
         static void Main(string[] args)
         {
+            //Escribir un programa que convierta un valor dado en grados fahrenheit a gados celsius.//
             float fahrenheit;
             float celsius;
             Console.WriteLine("Los grados fahrenheit son:");

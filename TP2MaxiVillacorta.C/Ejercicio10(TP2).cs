@@ -10,6 +10,7 @@ namespace EJERCICIOn10
     {
         static void Main(string[] args)
         {
+            //Una tienda ofrece un descuento del 15% sobre el total de la compra y un cliente desea saber cuanto debera pagar finalmente por su compra.//
             float compra;
             float total;
             float totalf;

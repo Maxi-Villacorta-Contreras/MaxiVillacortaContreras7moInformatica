@@ -10,6 +10,7 @@ namespace Ejercicio2_TP2._
     {
         static void Main(string[] args)
         {
+            //Cambiar el cambio de monedas en dolares y euros al ingresar cierta cantidad de dinero en pesos.//
             int dolar = 202;
             int euro = 213;
             int pesos = 0;

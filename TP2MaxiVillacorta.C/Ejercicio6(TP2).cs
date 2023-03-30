@@ -10,6 +10,7 @@ namespace Ejercicio6_TP2_
     {
         static void Main(string[] args)
         {
+            //Mostrar el area y perimetro de un hexagono.//
             float lado;
             float apotema;
             float perimetro;

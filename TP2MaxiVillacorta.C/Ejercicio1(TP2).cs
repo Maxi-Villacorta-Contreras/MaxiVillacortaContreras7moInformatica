@@ -10,6 +10,7 @@ namespace Ejercicio1
     {
         static void Main(string[] args)
         {
+            //Escribir un programa que pregunte al usuario su nombre, y luego lo salude.//
             string nombre;
             Console.WriteLine("¿Como te llamas?");
             nombre = Console.ReadLine();

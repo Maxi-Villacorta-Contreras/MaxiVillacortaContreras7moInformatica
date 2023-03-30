@@ -10,6 +10,7 @@ namespace Ejercicio13
     {
         static void Main(string[] args)
         {
+            //Ddado un numero de dos cifras, diseñe un programa que permita obtener el numero invertido.Ejemplo, si se introduce 23 que muestre 32.
             int numero = 0;
             int decena = 0;
             int unidad = 0;

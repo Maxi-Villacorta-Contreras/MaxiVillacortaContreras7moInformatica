@@ -10,6 +10,7 @@ namespace Ejercici5_tp2_
     {
         static void Main(string[] args)
         {
+            //Mostrar el area y perimetro de un rombo//
             float area;
             float perimetro;
             float diag1;

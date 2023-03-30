@@ -10,6 +10,7 @@ namespace Ejercicio4_TP2_
     {
         static void Main(string[] args)
         {
+            //Hacer un programa que ingrese por teclado un numero total de segundos y que luego pueda mostrar la cantidad de horas, minutos y segundos que eisten en el valor ingresado.//
             int num;
             int min;
             int hora;
